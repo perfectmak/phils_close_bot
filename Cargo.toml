@@ -1,0 +1,9 @@
+[package]
+name = "phils_close_bot"
+version = "0.1.0"
+authors = ["Perfect Makanju <damiperfect@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+serenity = "0.5"
+serde_json = "1.0"
